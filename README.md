@@ -7,7 +7,7 @@
 🏆 Munaseq was selected for MISK Launchpad 8.0 – a milestone that reflects our team's vision and potential.
 
 ### 🧰 Tech Stack
-- Languages: Typescript, Javascript, Java, Python
+- Languages: Typescript, Javascript, Java, PHP, Python
 - Frameworks: Nest.js, Express.js, Spring Boot
 - Databases: PostgreSQL, MySQL, MonogoDB
 - Tools: Git, Docker, Postman 
